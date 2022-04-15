@@ -1,0 +1,4 @@
+file A
+======
+
+cool stuff goes here
