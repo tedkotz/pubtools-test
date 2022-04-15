@@ -1,0 +1,3 @@
+[submodule "pubtools"]
+	path = pubtools
+	url = git@github.com:tedkotz/pubtools.git
