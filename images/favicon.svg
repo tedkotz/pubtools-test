@@ -1,0 +1,12 @@
+<svg viewBox="0 0 1000 1000" >
+  <polygon style="fill:#C00;stroke-width:0" points="450,0   450,100 999,550 999,450" />
+  <polygon style="fill:#C00;stroke-width:0" points="550,900 550,999   0,550   0,450" />
+  <polygon style="fill:#F00;stroke-width:0" points="  0,550   0,450 450,0   450,100" />
+  <polygon style="fill:#F00;stroke-width:0" points="999,550 999,450 550,900 550,999" />
+
+  <polygon style="fill:#900;stroke-width:0" points="450,150 450,250 375,325 375,225" />
+  <polygon style="fill:#C00;stroke-width:0" points="450,250 375,325 675,570 750,495" />
+  <polygon style="fill:#900;stroke-width:0" points="550,850 550,468 450,386 450,768" />
+  <polygon style="fill:#C00;stroke-width:0" points="550,850 550,468 625,393 625,775" />
+  <polygon style="fill:#F00;stroke-width:0" points="450,150 450,250 525,311 450,386 550,468 625,393 750,495 750,395" />
+</svg>

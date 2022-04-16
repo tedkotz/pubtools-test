@@ -14,6 +14,8 @@ STYLESHEET=modern.css
 
 COPYDIR=images
 
+MINIFY=None
+
 -include pubtools/Makefile.inc
 
 ted:
