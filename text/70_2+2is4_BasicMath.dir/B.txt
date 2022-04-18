@@ -1,0 +1,5 @@
+file B
+======
+
+This could be more stuff
+
