@@ -64,11 +64,36 @@ This text breaks up the lists
 
 2. List A
 
-3. List A
+3. http://testlink.com/
 
 4. List A
 
-5. List A
+5. http://testlink.com/
 
 6. List A
 
+## A pre-formatted code block
+
+```
+#include <stdio.h>
+int main(int argc, char** argv)
+{
+    printf("Test Output\n");
+}
+```
+## A table
+
+|Ability Score | IP Cost                |
+|--------------|------------------------|
+| 1            | 1                      |
+| 2            | 3                      |
+| 3            | 6                      |
+| 4            | 10                     |
+| 5            | 15                     |
+| 6            | 21                     |
+| 7            | 28                     |
+| 8            | 36                     |
+| 9            | 45                     |
+|10            | 55                     |
+|n             | f(n) = n * (n + 1) / 2 |
+|n             | f(n) = f(n - 1) + n    |
